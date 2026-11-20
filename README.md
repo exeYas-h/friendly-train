@@ -1,1 +1,1 @@
-# friendly-train
+My first Git commit!
